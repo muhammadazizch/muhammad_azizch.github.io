@@ -5,6 +5,7 @@
 
 My complete projects in Pendanaan Pengabdian Mahasiswa Faculty of Science and Mathematics Diponegoro University (Aziz et al,2022)
 
+[![View_R](https://img.shields.io/badge/R%20Studio-logo%3DRStudio?logo=R&logoColor=blue&color=pink)](https://github.com/muhammadazizch/Multinomial-Logistic-Regression/blob/main/multinomial.R)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/muhammadazizch/Multinomial-Logistic-Regression)
 
 
