@@ -18,6 +18,7 @@ My thesis is on the topic of Predicting Potential Pawn Customers at PT Pegadaian
 
 ## Home Credit Default Risk
 Final Project Study Independent at Zenius about Dataset Home Credit. My team preprocessed a dataset of 300K credit applications and built machine learning models to predict Home Credit default risk.
+
 [![View_Notebook](https://img.shields.io/badge/Google_Colab-logo%3DGoogle%20Colab?logo=Google%20Colab&logoColor=orange&color=grey
 )](https://colab.research.google.com/drive/10YoELq7qfbHt-wuevbzBtzSvQesJehF-#scrollTo=JfEaivuS9uK7)
 
