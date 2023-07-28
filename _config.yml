@@ -1,5 +1,7 @@
 title: <p align="center"> Muhammad Abdul Aziz </p>
+
 logo: "/images/picture.png?raw=true"
+
 description:
   <p align="center">
   <a href="pdf/resume.pdf">Resume</a> |
@@ -7,10 +9,13 @@ description:
   <a href="https://github.com/muhammadazizch">GitHub</a>
   </p>
   <p align="justify">
+  
   I am currently a Mentee Data Science at Digistar Class 2023
   <br><br>
   Bachelor Degree of Statistics|Data Analytics Study Independent  at Zenius|Ex-Intern as an Database Customer Supporting at PT Pegadaian
   <br><br>
+  <br><br>
+  
   </p>
   
 theme: jekyll-theme-minimal
