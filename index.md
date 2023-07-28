@@ -13,7 +13,12 @@ My complete projects in Pendanaan Pengabdian Mahasiswa Faculty of Science and Ma
 
 My thesis is on the topic of Predicting Potential Pawn Customers at PT Pegadaian Using a Support Vector Machine with a Genetic Algorithm (Aziz, 2023)
 
-[![View_Notebook](https://img.shields.io/badge/R%20Studio-logo%3DRStudio?logo=R&logoColor=blue&color=pink)](https://github.com/muhammadazizch/Genetic-Algorithm/blob/main/Syntax.R)
+[![View_R](https://img.shields.io/badge/R%20Studio-logo%3DRStudio?logo=R&logoColor=blue&color=pink)](https://github.com/muhammadazizch/Genetic-Algorithm/blob/main/Syntax.R)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/muhammadazizch/Genetic-Algorithm)
+
+## Home Credit Default Risk
+Final Project Study Independent at Zenius about Dataset Home Credit. My team preprocessed a dataset of 300K credit applications and built machine learning models to predict Home Credit default risk.
+[![View_Notebook](https://img.shields.io/badge/Google_Colab-logo%3DGoogle%20Colab?logo=Google%20Colab&logoColor=orange&color=grey
+)](https://colab.research.google.com/drive/10YoELq7qfbHt-wuevbzBtzSvQesJehF-#scrollTo=JfEaivuS9uK7)
 
 <center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
