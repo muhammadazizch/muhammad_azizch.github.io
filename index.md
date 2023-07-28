@@ -13,7 +13,6 @@ My complete projects in Pendanaan Pengabdian Mahasiswa Faculty of Science and Ma
 
 My thesis is on the topic of Predicting Potential Pawn Customers at PT Pegadaian Using a Support Vector Machine with a Genetic Algorithm (Aziz, 2023)
 
-[![View](https://img.shields.io/badge/R%20Studio-logo%3DRStudio?logo=R&logoColor=blue&color=pink)]
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/muhammadazizch/Genetic-Algorithm)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/muhammadazizch/Genetic-Algorithm)(https://img.shields.io/badge/R%20Studio-logo%3DRStudio?logo=R&logoColor=blue&color=pink)
 
 <center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
