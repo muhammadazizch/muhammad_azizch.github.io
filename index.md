@@ -22,5 +22,7 @@ Final Project Study Independent at Zenius about Dataset Home Credit. My team pre
 
 [![View_Notebook](https://img.shields.io/badge/Google_Colab-logo%3DGoogle%20Colab?logo=Google%20Colab&logoColor=orange&color=grey
 )](https://colab.research.google.com/drive/10YoELq7qfbHt-wuevbzBtzSvQesJehF-#scrollTo=JfEaivuS9uK7)
+[![View_PPT](https://img.shields.io/badge/Microsoft%20PowerPoint-logo%3DMicrosoft%20PowerPoint?logo=Microsoft%20PowerPoint&logoColor=orange&color=white)](https://docs.google.com/presentation/d/1T52yEULFplWzGRg4oN6xYld42b0oX6VrMzHx4PnY1Qk/edit?usp=sharing)
+
 
 <center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
