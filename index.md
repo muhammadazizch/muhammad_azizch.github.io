@@ -20,7 +20,7 @@ My thesis is on the topic of Predicting Potential Pawn Customers at PT Pegadaian
 ## Home Credit Default Risk
 Final Project Study Independent at Zenius about Dataset Home Credit. My team preprocessed a dataset of 300K credit applications and built machine learning models to predict Home Credit default risk.
 <br>
-<center><img src="images/Final_Project.png" width="192" height="108" alt="Infographic"/></center>
+<center><img src="images/Final_Project.png" width="384" height="216" alt="Infographic"/></center>
 
 [![View_Notebook](https://img.shields.io/badge/Google_Colab-logo%3DGoogle%20Colab?logo=Google%20Colab&logoColor=orange&color=grey
 )](https://colab.research.google.com/drive/10YoELq7qfbHt-wuevbzBtzSvQesJehF-#scrollTo=JfEaivuS9uK7)
@@ -31,7 +31,7 @@ Final Project Study Independent at Zenius about Dataset Home Credit. My team pre
 ## Finalis Tadulako Data Challenge 2021
 Became an infographic finalist at the Tadulako Data Challenge by presenting the topic of telemedicine during the Covid19 pandemic.
 <br>
-<center><img src="images/INFOGRAFIS.jpg" width="175" height="280" alt="Infographic"/></center>
+<center><img src="images/Tadulako.png" width="384" height="216" alt="Infographic"/></center>
 
 [![View_PPT](https://img.shields.io/badge/Microsoft%20PowerPoint-logo%3DMicrosoft%20PowerPoint?logo=Microsoft%20PowerPoint&logoColor=orange&color=white)](https://docs.google.com/presentation/d/17-qftVDoq8JTAltv_7jiFHNB1PFUd65fqD_bEfE3_Ok/edit?usp=sharing)
 
