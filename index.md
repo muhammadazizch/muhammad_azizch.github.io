@@ -1,6 +1,6 @@
 # Portofolio
 ---
-## Support Vector Machine with Genetic Algorith
+## Support Vector Machine with Genetic Algorithm
 My thesis is on the topic of Predicting Potential Pawn Customers at PT Pegadaian Using a Support Vector Machine with a Genetic Algorithm (Aziz, 2023)
 
 [![View_R](https://img.shields.io/badge/R%20Studio-logo%3DRStudio?logo=R&logoColor=blue&color=pink)](https://github.com/muhammadazizch/Genetic-Algorithm/blob/main/Syntax.R)
@@ -25,7 +25,11 @@ My complete projects in Pendanaan Pengabdian Mahasiswa Faculty of Science and Ma
 
 
 ## K-Means Clustering 
-K-Means Clustering analysis for clustering regencies/ cities in Central Java based on productivity crops
+K-Means Clustering analysis for clustering regencies/ cities in Central Java based on productivity crops.
+
+
+## K-Nearest Neighbour (KNN) and Fuzzy K-Nearest Neighbour (FKNN)
+K-Nearest Neighbour (KNN) and Fuzzy K-Nearest Neighbour (FKNN) analysis for heart attacks.
 
 ---
 ## Finalis Tadulako Data Challenge 2021
