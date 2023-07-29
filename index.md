@@ -27,4 +27,12 @@ Final Project Study Independent at Zenius about Dataset Home Credit. My team pre
 [![View_PPT](https://img.shields.io/badge/Microsoft%20PowerPoint-logo%3DMicrosoft%20PowerPoint?logo=Microsoft%20PowerPoint&logoColor=orange&color=white)](https://docs.google.com/presentation/d/1T52yEULFplWzGRg4oN6xYld42b0oX6VrMzHx4PnY1Qk/edit?usp=sharing)
 
 
+---
+## Finalis Tadulako Data Challenge 2021
+Became an infographic finalist at the Tadulako Data Challenge by presenting the topic of telemedicine during the Covid19 pandemic.
+<br>
+<center><img src="images/INFOGRAFIS.png"/></center>
+
+[![View_PPT](https://img.shields.io/badge/Microsoft%20PowerPoint-logo%3DMicrosoft%20PowerPoint?logo=Microsoft%20PowerPoint&logoColor=orange&color=white)](https://docs.google.com/presentation/d/17-qftVDoq8JTAltv_7jiFHNB1PFUd65fqD_bEfE3_Ok/edit?usp=sharing)
+
 <center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
