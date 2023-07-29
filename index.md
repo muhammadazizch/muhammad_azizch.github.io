@@ -31,7 +31,7 @@ Final Project Study Independent at Zenius about Dataset Home Credit. My team pre
 ## Finalis Tadulako Data Challenge 2021
 Became an infographic finalist at the Tadulako Data Challenge by presenting the topic of telemedicine during the Covid19 pandemic.
 <br>
-<center><img src="images/INFOGRAFIS.jpg" width="350" height="495" alt="Infographic"/></center>
+<center><img src="images/INFOGRAFIS.jpg" width="175" height="280" alt="Infographic"/></center>
 
 [![View_PPT](https://img.shields.io/badge/Microsoft%20PowerPoint-logo%3DMicrosoft%20PowerPoint?logo=Microsoft%20PowerPoint&logoColor=orange&color=white)](https://docs.google.com/presentation/d/17-qftVDoq8JTAltv_7jiFHNB1PFUd65fqD_bEfE3_Ok/edit?usp=sharing)
 
