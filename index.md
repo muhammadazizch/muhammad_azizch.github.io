@@ -26,7 +26,8 @@ My complete projects in Pendanaan Pengabdian Mahasiswa Faculty of Science and Ma
 
 ## K-Means Clustering 
 K-Means Clustering analysis for clustering regencies/ cities in Central Java based on productivity crops.
-
+<br>
+<center><img src="images/K-Means.png" width="384" height="216" alt="Infographic"/></center>
 
 ## K-Nearest Neighbour (KNN) and Fuzzy K-Nearest Neighbour (FKNN)
 K-Nearest Neighbour (KNN) and Fuzzy K-Nearest Neighbour (FKNN) analysis for heart attacks.
