@@ -1,14 +1,14 @@
 # Portofolio
 ---
-## Support Vector Machine with Genetic Algorithm
-My thesis is on the topic of Predicting Potential Pawn Customers at PT Pegadaian Using a Support Vector Machine with a Genetic Algorithm (Aziz, 2023)
+## Predicting Potential Pawn Customers
+My thesis, "Predicting Potential Pawn Customers at PT Pegadaian Using a Support Vector Machine with a Genetic Algorithm". I explore the intersection of advanced data analysis and customer targeting strategies. By leveraging Support Vector Machines and Genetic Algorithms, this research aims to revolutionize PT Pegadaian's approach to identifying potential customers. (Aziz, 2023)
 
 [![View_R](https://img.shields.io/badge/R%20Studio-logo%3DRStudio?logo=R&logoColor=blue&color=pink)](https://github.com/muhammadazizch/Genetic-Algorithm/blob/main/Syntax.R)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/muhammadazizch/Genetic-Algorithm)
 
 
 ## Home Credit Default Risk
-Final Project Study Independent at Zenius about Dataset Home Credit. My team preprocessed a dataset of 300K credit applications and built machine learning models to predict Home Credit default risk.
+Our final independent project Study Independent at Zenius, we delved into the Home Credit dataset. Together, we meticulously preprocessed a substantial dataset comprising 300,000 credit applications. We constructed sophisticated machine learning models designed to predict Home Credit default risk and developed an intuitive dashboard with interactive visualizations, empowering stakeholders to monitor and assess nasabah data effectively.
 <br>
 <center><img src="images/Final_Project.png" width="384" height="216" alt="Infographic"/></center>
 
@@ -25,16 +25,16 @@ My complete projects in Pendanaan Pengabdian Mahasiswa Faculty of Science and Ma
 
 
 ## K-Means Clustering 
-K-Means Clustering analysis for clustering regencies/ cities in Central Java based on productivity crops.
+K-Means Clustering analysis for Central Java's regencies/cities, based on crop productivity, aims to reveal regional agricultural patterns. This data-driven approach helps policymakers allocate resources more effectively, enhancing productivity and sustainability.
 <br>
 <center><img src="images/K-Means.png" width="384" height="216" alt="Infographic"/></center>
 
 ## K-Nearest Neighbour (KNN) and Fuzzy K-Nearest Neighbour (FKNN)
-K-Nearest Neighbour (KNN) and Fuzzy K-Nearest Neighbour (FKNN) analysis for heart attacks.
+Conducting K-Nearest Neighbour (KNN) and Fuzzy K-Nearest Neighbour (FKNN) analyses for heart attacks to refine prediction accuracy and explore the nuances of fuzzy logic in medical diagnostics
 
 ---
 ## Finalis Tadulako Data Challenge 2021
-Became an infographic finalist at the Tadulako Data Challenge by presenting the topic of telemedicine during the Covid19 pandemic.
+My Team achieved recognition as an infographic finalist at the Tadulako Data Challenge by presenting an informative infographic on the topic of telemedicine's pivotal role during the Covid-19 pandemic. This experience showcased my ability to effectively convey complex information visually, highlighting the significance of telemedicine in providing accessible healthcare solutions during challenging times.
 <br>
 <center><img src="images/Tadulako.png" width="384" height="216" alt="Infographic"/></center>
 
