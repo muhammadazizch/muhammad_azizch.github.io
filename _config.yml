@@ -1,23 +1,37 @@
-title: <p align="center"> Muhammad Abdul Aziz </p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Muhammad Abdul Aziz</title>
+    <link rel="stylesheet" href="styles.css"> <!-- You can link to your CSS file for additional styling -->
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="pdf/resume.pdf">Resume</a></li>
+                <li><a href="https://www.linkedin.com/in/muhammad-azizch/">LinkedIn</a></li>
+                <li><a href="https://github.com/muhammadazizch">GitHub</a></li>
+            </ul>
+        </nav>
+    </header>
 
-logo: "/images/Picture.png?raw=true"
+    <section class="hero">
+        <img src="/images/Picture.png?raw=true" alt="Your Logo">
+        <h1>Muhammad Abdul Aziz</h1>
+    </section>
 
-description:
-  <p align="center">
-  <a href="pdf/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/muhammad-azizch/">LinkedIn</a> |
-  <a href="https://github.com/muhammadazizch">GitHub</a>
-  </p>
-  
-  <p align="justify">
-  Bachelor Degree of Statistics at Diponegoro University with GPA 3.83
-  <br><br>
-  I am currently a Mentee Data Science at Digistar Class 2023
-  <br><br>
-  <br><br>
-  <br><br>
-  </p>
+    <section class="content">
+        <div class="about">
+            <h2>About Me</h2>
+            <p>Bachelor Degree in Statistics at Diponegoro University with a GPA of 3.83.</p>
+            <p>I am currently a Mentee Data Scientist at Digistar Class 2023.</p>
+        </div>
+    </section>
 
-  
-theme: jekyll-theme-minimal
-google_analytics: UA-145578661-1 # Google Analytics tracking ID
+    <footer>
+        <p>&copy; 2023 Muhammad Abdul Aziz. All rights reserved.</p>
+    </footer>
+</body>
+</html>
