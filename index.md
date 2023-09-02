@@ -11,7 +11,7 @@ My thesis, "Predicting Potential Pawn Customers at PT Pegadaian Using a Support 
 Our final independent project Study Independent at Zenius, we delved into the Home Credit dataset. Together, we meticulously preprocessed a substantial dataset comprising 300,000 credit applications. We constructed sophisticated machine learning models designed to predict Home Credit default risk and developed an intuitive dashboard with interactive visualizations, empowering stakeholders to monitor and assess nasabah data effectively.
 <br>
 
-<iframe id="pptxFrame" src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com%2Fmuhammadazizch%2Fmuhammadazizch.github.io%2Fmain%2Fpdf%2FFinPro_DA_Slide%2520Presentas_Group%252020.pptx&embedded=true" frameborder="0" width="100%" height="240px"></iframe>
+<iframe id="pptxFrame" src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com%2Fmuhammadazizch%2Fmuhammadazizch.github.io%2Fmain%2Fpdf%2FHome%2520Credit.pptx&embedded=true" frameborder="0" width="100%" height="240px"></iframe>
 <script>
   window.addEventListener('message', function (e) {
     var pptxFrame = document.getElementById('pptxFrame');
