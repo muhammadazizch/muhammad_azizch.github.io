@@ -14,6 +14,7 @@ Our final independent project Study Independent at Zenius, we delved into the Ho
 
 <iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/muhammadazizch/muhammadazizch.github.io/main/pdf/FinPro_DA_Slide%20Presentas_Group%2020.pdf&embedded=true" frameborder="0" width="100%" height="500"></iframe>
 
+<iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com%2Fmuhammadazizch%2Fmuhammadazizch.github.io%2Fmain%2Fpdf%2FFinPro_DA_Slide%2520Presentas_Group%252020.pptx&embedded=true" frameborder="0" width="100%" height="500"></iframe>
 
 
 
