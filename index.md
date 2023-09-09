@@ -43,6 +43,7 @@ K-Means Clustering analysis for Central Java's regencies/cities, based on crop p
 
 ## K-Nearest Neighbour (KNN) and Fuzzy K-Nearest Neighbour (FKNN)
 Conducting K-Nearest Neighbour (KNN) and Fuzzy K-Nearest Neighbour (FKNN) analyses for heart attacks to refine prediction accuracy and explore the nuances of fuzzy logic in medical diagnostics
+<iframe id="pptxFrame" src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/muhammadazizch/muhammadazizch.github.io/main/pdf/KNN_FNN.pdf&embedded=true" frameborder="0" width="100%" height="240px"></iframe>
 
 ---
 ## Finalis Tadulako Data Challenge 2021
