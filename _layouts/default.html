@@ -6,53 +6,35 @@
     <title>Situs Web Saya</title>
     <link rel="stylesheet" href="styles.css"> <!-- Tautan ke file CSS untuk gaya dan tata letak -->
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
+        /* ... (gaya CSS yang sudah ada) ... */
+
+        /* Tambahkan gaya untuk menu responsif */
+        .menu-icon {
+            display: none;
         }
 
-        header {
-            background-color: #333;
-            color: white;
-            padding: 10px 0;
-            text-align: center;
-        }
+        @media screen and (max-width: 768px) {
+            .menu-icon {
+                display: block;
+            }
 
-        nav {
-            background-color: #444;
-            padding: 10px 0;
-            text-align: center;
-        }
+            nav ul {
+                display: none;
+                text-align: center;
+                background-color: #444;
+                position: absolute;
+                width: 100%;
+                top: 60px;
+            }
 
-        nav ul {
-            list-style: none;
-            padding: 0;
-        }
+            nav ul.show {
+                display: block;
+            }
 
-        nav ul li {
-            display: inline;
-            margin-right: 20px;
-        }
-
-        nav ul li a {
-            color: white;
-            text-decoration: none;
-        }
-
-        main {
-            padding: 20px;
-        }
-
-        footer {
-            background-color: #333;
-            color: white;
-            text-align: center;
-            padding: 10px 0;
-            position: fixed;
-            bottom: 0;
-            width: 100%;
+            nav ul li {
+                display: block;
+                margin: 10px 0;
+            }
         }
     </style>
 </head>
@@ -61,17 +43,18 @@
         <h1>Selamat Datang di Situs Web Saya</h1>
     </header>
 
+    <div class="menu-icon">&#9776; Menu</div>
+
     <nav>
         <ul>
             <li><a href="/">Beranda</a></li>
-            <li><a href="/tentang">Tentang Kami</a></li>
-            <li><a href="/layanan">Layanan</a></li>
+            <li><a href="/profil">Profil</a></li>
             <li><a href="/kontak">Kontak</a></li>
         </ul>
     </nav>
 
     <main>
-        <h2>Tentang Kami</h2>
+        <h2>Profil Kami</h2>
         <p>Selamat datang di situs web kami! Kami adalah tim yang berdedikasi untuk memberikan informasi terbaru dan terpercaya kepada pengunjung kami.</p>
 
         <h2>Layanan Kami</h2>
@@ -81,5 +64,15 @@
     <footer>
         <p>Hak Cipta &copy; 2023 Situs Web Saya. All rights reserved.</p>
     </footer>
+
+    <script>
+        // Tambahkan fungsi JavaScript untuk menangani klik pada ikon menu
+        const menuIcon = document.querySelector('.menu-icon');
+        const navMenu = document.querySelector('nav ul');
+
+        menuIcon.addEventListener('click', () => {
+            navMenu.classList.toggle('show');
+        });
+    </script>
 </body>
 </html>
