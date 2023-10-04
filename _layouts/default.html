@@ -22,6 +22,15 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+        <nav>
+          <ul>
+            <li><a href="/">Beranda</a></li>
+            <li><a href="/tentang">Tentang</a></li>
+            <li><a href="/layanan">Layanan</a></li>
+            <li><a href="/kontak">Kontak</a></li>
+          </ul>
+        </nav>
+
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
