@@ -7,9 +7,33 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
+</head>
+<body>
+    <header>
+        <h1>{{ page.title }}</h1>
+        <nav>
+            <ul>
+                <li><a href="/">Beranda</a></li>
+                <li><a href="/tentang">Tentang</a></li>
+                <li><a href="/layanan">Layanan</a></li>
+                <li><a href="/kontak">Kontak</a></li>
+            </ul>
+        </nav>
+        <small class="date">{{ page.date | date: "%-d %B %Y" }}</small>
+        <p class="author">by {{ page.author | default: site.author }}</p>
+    </header>
+
+    <main>
+        {{ content }}
+    </main>
+
+    <footer>
+        {% if page.tags %}
+        <small>Tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+        {% endif %}
+    </footer>
+
+    <script src="scripts.js"></script> <!-- Link to your JavaScript file if needed -->
   </head>
   <body>
     <div class="wrapper">
