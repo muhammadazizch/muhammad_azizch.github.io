@@ -1,8 +1,3 @@
----
-layout: default
-title: Halaman Beranda
----
-
 # Portofolio
 ---
 ## Predicting - S1 Thesis Project
