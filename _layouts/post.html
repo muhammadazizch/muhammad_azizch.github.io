@@ -1,14 +1,36 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file for styling -->
+</head>
+<body>
+    <header>
+        <h1>{{ page.title }}</h1>
+        <nav>
+            <ul>
+                <li><a href="/">Beranda</a></li>
+                <li><a href="/tentang">Tentang</a></li>
+                <li><a href="/layanan">Layanan</a></li>
+                <li><a href="/kontak">Kontak</a></li>
+            </ul>
+        </nav>
+        <small class="date">{{ page.date | date: "%-d %B %Y" }}</small>
+        <p class="author">by {{ page.author | default: site.author }}</p>
+    </header>
 
-<small>{{ page.date | date: "%-d %B %Y" }}</small>
-<h1>{{ page.title }}</h1>
+    <main>
+        {{ content }}
+    </main>
 
-<p class="view">by {{ page.author | default: site.author }}</p>
+    <footer>
+        {% if page.tags %}
+        <small>Tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+        {% endif %}
+    </footer>
 
-{{content}}
-
-{% if page.tags %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
-{% endif %}
+    <script src="scripts.js"></script> <!-- Link to your JavaScript file if needed -->
+</body>
+</html>
