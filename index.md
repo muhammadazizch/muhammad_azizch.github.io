@@ -1,14 +1,14 @@
 # Portofolio
 ---
 ## Predicting - S1 Thesis Project
-My thesis, "Predicting Potential Pawn Customers at PT Pegadaian Using a Support Vector Machine with a Genetic Algorithm". I explore the intersection of advanced data analysis and customer targeting strategies. By leveraging Support Vector Machines and Genetic Algorithms, this research aims to revolutionize PT Pegadaian's approach to identifying potential customers. (Aziz, 2023)
+My thesis, "Predicting Potential Pawn Customers at PT Pegadaian Using a Support Vector Machine with a Genetic Algorithm". I explore the intersection of advanced data analysis and customer targeting strategies. By leveraging Support Vector Machines and Genetic Algorithms, this research aims to revolutionize PT Pegadaian's approach to identifying potential customers. 
 
 [![View_R](https://img.shields.io/badge/R%20Studio-logo%3DRStudio?logo=R&logoColor=blue&color=pink)](https://github.com/muhammadazizch/Genetic-Algorithm/blob/main/Syntax.R)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/muhammadazizch/Genetic-Algorithm)
 
 
 ## Home Credit Default Risk
-Our final independent project Study Independent at Zenius, we delved into the Home Credit dataset. Together, we meticulously preprocessed a substantial dataset comprising 300,000 credit applications. We constructed sophisticated machine learning models designed to predict Home Credit default risk and developed an intuitive dashboard with interactive visualizations, empowering stakeholders to monitor and assess nasabah data effectively.
+Our final independent project Study Independent at Zenius, we delved into the Home Credit dataset. Together, we meticulously preprocessed a substantial dataset comprising 300,000 credit applications. We constructed sophisticated machine learning models designed to predict Home Credit default risk and developed an intuitive dashboard with interactive visualizations, empowering stakeholders to monitor and assess nasabah data effectively. 
 <br>
 
 <iframe id="pptxFrame" src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com%2Fmuhammadazizch%2Fmuhammadazizch.github.io%2Fmain%2Fpdf%2FHome%2520Credit.pptx&embedded=true" frameborder="0" width="100%" height="240px"></iframe>
@@ -30,7 +30,7 @@ Our final independent project Study Independent at Zenius, we delved into the Ho
 
 
 ## Multinomial Logistic Regression
-My complete projects in Pendanaan Pengabdian Mahasiswa Faculty of Science and Mathematics Diponegoro University (Aziz et al,2022)
+My complete projects in Pendanaan Pengabdian Mahasiswa Faculty of Science and Mathematics Diponegoro University.
 
 [![View_R](https://img.shields.io/badge/R%20Studio-logo%3DRStudio?logo=R&logoColor=blue&color=pink)](https://github.com/muhammadazizch/Multinomial-Logistic-Regression/blob/main/multinomial.R)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/muhammadazizch/Multinomial-Logistic-Regression)
