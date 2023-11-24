@@ -3,6 +3,8 @@
 ## Predicting - S1 Thesis Project
 My thesis, "Predicting Potential Pawn Customers at PT Pegadaian Using a Support Vector Machine with a Genetic Algorithm". I explore the intersection of advanced data analysis and customer targeting strategies. By leveraging Support Vector Machines and Genetic Algorithms, this research aims to revolutionize PT Pegadaian's approach to identifying potential customers. 
 
+<iframe id="pptxFrame" src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/muhammadazizch/muhammadazizch.github.io/b38a6b00d42dec7cd0dd94ce55f22e55aba5e73e/pdf/PPT_Sidang_Aziz.pdf&embedded=true" frameborder="0" width="100%" height="240px"></iframe>
+
 [![View_R](https://img.shields.io/badge/R%20Studio-logo%3DRStudio?logo=R&logoColor=blue&color=pink)](https://github.com/muhammadazizch/Genetic-Algorithm/blob/main/Syntax.R)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/muhammadazizch/Genetic-Algorithm)
 
