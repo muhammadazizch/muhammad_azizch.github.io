@@ -34,6 +34,8 @@ Our final independent project Study Independent at Zenius, we delved into the Ho
 ## Multinomial Logistic Regression
 My complete projects in Pendanaan Pengabdian Mahasiswa Faculty of Science and Mathematics Diponegoro University.
 
+<iframe id="pptxFrame" src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/muhammadazizch/muhammadazizch.github.io/aa140a6dc5c4ad02513bdcffea84a8a198260055/pdf/Modul_Tim%203.pdf&embedded=true" frameborder="0" width="100%" height="240px"></iframe>
+
 [![View_R](https://img.shields.io/badge/R%20Studio-logo%3DRStudio?logo=R&logoColor=blue&color=pink)](https://github.com/muhammadazizch/Multinomial-Logistic-Regression/blob/main/multinomial.R)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/muhammadazizch/Multinomial-Logistic-Regression)
 
